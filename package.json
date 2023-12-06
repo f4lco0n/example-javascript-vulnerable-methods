@@ -24,6 +24,6 @@
     "marked": "0.3.19"
   },
   "devDependencies": {
-    "mocha": "^7.0.1"
+    "mocha": "^8.3.0"
   }
 }
